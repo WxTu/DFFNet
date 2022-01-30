@@ -16,7 +16,7 @@ Information Sciences, 565: 326-343, 2021.<br>
 All rights reserved.
 Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
 
-The code is released for academic research use only. For commercial use, please contact [twx@hnu.edu.cn].
+The code is released for academic research use only. For commercial use, please contact [wenxuantu@163.com].
 
 
 ## Installation
