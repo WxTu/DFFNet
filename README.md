@@ -4,13 +4,11 @@
 
 ###  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9032321)
 
-Context-Integrated and Feature-Refined Network for Lightweight Object Parsing.<br>
+DFFNet: An IoT-perceptive Dual Feature Fusion Network for General Real-time Semantic Segmentation.<br>
 
-Bin Jiang, [Wenxuan Tu](https://github.com/WxTu/CIFReNet/), Chao Yang, Junsong Yuan.<br>
+Xiangyan Tang, [Wenxuan Tu](https://github.com/WxTu/CIFReNet/), Keqiu Li, Jieren Cheng.<br>
 
-IEEE Transactions on Image Processing, 29: 5079-5093, 2020.<br>
-
-DOI: 10.1109/TIP.2020.2978583.<br>
+Information Sciences, 565: 326-343, 2021.<br>
 
 ### [License](https://raw.githubusercontent.com/nvlabs/SPADE/master/LICENSE.md)
 
@@ -25,7 +23,7 @@ The code is released for academic research use only. For commercial use, please 
 
 Clone this repo.
 ```bash
-git clone https://github.com/WxTu/CIFReNet.git
+https://github.com/WxTu/DFFNet.git
 ```
 
 * Windows or Linux
