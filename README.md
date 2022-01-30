@@ -1,6 +1,6 @@
 ## DFFNet
 <span id="jump1"></span>
-![CIFReNet Show](./CIFReNet.jpg)
+![CIFReNet Show](./DFFNet.jpg)
 
 ###  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9032321)
 
