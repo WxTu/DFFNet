@@ -42,7 +42,7 @@ Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li e
 
 ## Code Structure
 - `data/Dataset.py`: processes the dataset before passing to the network.
-- `model/CIFReNet.py`: defines the architecture of the whole model.
+- `model/DFFNet.py`: defines the architecture of the whole model.
 - `model/Backbone.py`: defines the encoder.
 - `model/Layers.py`: defines the MFFM, LSPM, and others.
 - `utils/Config.py`: defines some hyper-parameters.
