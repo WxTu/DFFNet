@@ -71,7 +71,7 @@ If you use this code for your research, please cite our papers.
   journal={Information Sciences},
   volume={565},
   pages={326-343},
-  year={2021},
+  year={2021}
 }
 ```
 ## Acknowledgement
