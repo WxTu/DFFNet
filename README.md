@@ -2,7 +2,7 @@
 <span id="jump1"></span>
 ![CIFReNet Show](./DFFNet.jpg)
 
-###  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9032321)
+###  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub)
 
 DFFNet: An IoT-perceptive Dual Feature Fusion Network for General Real-time Semantic Segmentation.<br>
 
@@ -44,7 +44,7 @@ Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li e
 - `data/Dataset.py`: processes the dataset before passing to the network.
 - `model/CIFReNet.py`: defines the architecture of the whole model.
 - `model/Backbone.py`: defines the encoder.
-- `model/Layers.py`: defines the DSP, MCIM, and others.
+- `model/Layers.py`: defines the MFFM, LSPM, and others.
 - `utils/Config.py`: defines some hyper-parameters.
 - `utils/Process.py`: defines the process of data pretreatment.
 - `utils/Utils.py`: defines the loss, optimization, metrics, and others.
@@ -58,8 +58,6 @@ Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li e
 ![Visual Show](./visual.jpg)
 
 ## Contact
-[twx@hnu.edu.cn](twx@hnu.edu.cn)
-
 [wenxuantu@163.com](wenxuantu@163.com)
 
 Any discussions or concerns are welcomed!
@@ -67,13 +65,13 @@ Any discussions or concerns are welcomed!
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
-@article{Jiang2020Context,
-  title={Context-Integrated and Feature-Refined Network for Lightweight Object Parsing},
-  author={Bin Jiang, Wenxuan Tu, Chao Yang, Junsong Yuan},
-  journal={IEEE Transactions on Image Processing},
-  volume={29},
-  pages={5079-5093},
-  year={2020},
+@article{Tang2021DFFNet,
+  title={DFFNet: An IoT-perceptive Dual Feature Fusion Network for General Real-time Semantic Segmentation},
+  author={Xiangyan Tang and Wenxuan Tu and Keqiu Li and Jieren Cheng},
+  journal={Information Sciences},
+  volume={565},
+  pages={326-343},
+  year={2021},
 }
 ```
 ## Acknowledgement
